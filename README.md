@@ -1,8 +1,6 @@
 # Shadow of the Colossus — PC native port · v0.76.2
 
-<a href="https://recomplauncher.com/game/shadowofthecolossus-pc"><picture><source media="(prefers-color-scheme: dark)" srcset="https://recomplauncher.com/assets/press/launcher/badge-light.svg"><img alt="Get it on RecompLauncher" src="https://recomplauncher.com/assets/press/launcher/badge-dark.svg" height="48"></picture></a>
-
-[Releases](../../releases) · [Changelog](CHANGELOG.md)
+Releases · [Changelog](CHANGELOG.md)
 
 > [!CAUTION]
 > *⚠️*No game or Sony files are included.** You need your own game dump. Since v0.75 the sound
@@ -135,7 +133,7 @@ In the launcher (**Quick settings → Textures**) and in the in-game menu (chang
 
 ### Download and use
 
-1. Download `SotC-PC.zip` from [Releases](../../releases) and unzip it into a folder.
+1. Unzip `SotC-PC.zip` into a folder.
 2. Run **`SotC.exe`**. On first start the launcher searches the PC's drives for:
    - the game folder (the CUSA08809 or CUSA08034 dump with `eboot.bin`, `sce_module` and `sce_sys`);
    - the sound modules (`libSceNgs2.sprx` and `libSceUlt.sprx`) of an installed shadPS4
